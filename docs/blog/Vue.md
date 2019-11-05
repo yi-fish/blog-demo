@@ -1,4 +1,5 @@
 # Vue AQ
+## try
 ### 一、简单理解Vue中的nextTick
 > Vue中的nextTick涉及到Vue中DOM的异步更新，感觉很有意思，特意了解了一下。其中关于nextTick的源码涉及到不少知识，很多不太理解，暂且根据自己的一些感悟介绍下nextTick。
 ```JS
