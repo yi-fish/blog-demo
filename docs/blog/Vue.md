@@ -2,7 +2,6 @@
 sidebarDepth: 2
 prev: true
 next: true
-sidebar: auto
 ---
 
 # Vue AQ

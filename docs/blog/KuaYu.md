@@ -1,8 +1,7 @@
 ---
-sidebarDepth: 1
+sidebarDepth: 2
 prev: true
 next: true
-sidebar: auto
 ---
 
 # git add -A 和 git add . 的区别
