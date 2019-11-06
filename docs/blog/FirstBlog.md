@@ -1,13 +1,17 @@
-# 我的第一篇博客
-
-
 ---
 meta:
   - name: description
     content: hello
   - name: keywords
     content: super duper SEO
+sidebarDepth: 0
+prev: true
+next: true
 ---
+
+# 我的第一篇博客
+
+
 :tada: :100::tada: :100::tada: :100::tada: :100::tada: :100::tada: :100::tada: :100::tada: :100::tada: :100::tada: :100::tada: :100::tada: :100::tada: :100::tada: :100::tada: :100::tada: :100::tada: :100::tada: :100::tada: :100::tada: :100:
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
@@ -57,7 +61,6 @@ This is a dangerous warning
 23.   }
 24. }
 ```
-
 
 
 
